@@ -12,7 +12,6 @@ This dashboard provides a comprehensive visual summary of a rugby match using re
 - **Player Statistics**: Visual breakdown of player actions such as passes, tackles, and runs.
 - **Team Performance**: Aggregated metrics comparing teams on key performance indicators.
 - **Match Timeline**: Visual timeline of major events during the match.
-- **Fair Play Analysis**: Tracks infractions and actions per player.
 - **Sportsmanship Score**: Team-wise comparison based on fouls and conduct metrics.
 - **Dynamic Filters**: Match half selection and other interactive filters.
 - **Custom Tooltips**: Rich, contextual tooltips for deeper insights.
@@ -26,14 +25,14 @@ This dashboard provides a comprehensive visual summary of a rugby match using re
 
 ## 📁 Files Included
 
-- `Rugby Dashboard.twbx` – The packaged Tableau workbook  
+- `Rugby Dashboard.twb` – The packaged Tableau workbook  
 - `Rugby Dataset.xlsx` – Cleaned dataset used for the dashboard  
-- `images/` – Screenshots or GIFs of the dashboard  
+- `image.jpg` – Screenshots or GIFs of the dashboard  
 - `README.md` – You're here!
 
 ## 🚀 Getting Started
 
-1. Clone this repository or download the `.twbx` file.
+1. Clone this repository or download the `.twb` file.
 2. Open the Tableau workbook in Tableau Desktop.
 3. Ensure the data source path points to the `Rugby Dataset.xlsx` file.
 4. Explore the dashboard using the filters and tooltips!
